@@ -355,7 +355,7 @@ if (!isNumber(user.ayam)) user.ayam = 0
             } else
                 global.db.data.users[m.sender] = {
                     exp: 0,
-                    limit: 20,
+                    limit: 4,
                     lastclaim: 0,
                     registered: false,
                     spammer: 0,
