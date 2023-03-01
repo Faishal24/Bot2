@@ -45066,7 +45066,7 @@
     },
     "6285887863461@s.whatsapp.net": {
       "exp": 25,
-      "limit": 20,
+      "limit": 1,
       "lastclaim": 0,
       "registered": false,
       "spammer": 0,
@@ -45085,7 +45085,7 @@
       "afk": -1,
       "tigame": 50,
       "afkReason": "",
-      "banned": false,
+      "banned": true,
       "warn": 0,
       "warning": 0,
       "level": 0,
@@ -45289,7 +45289,7 @@
       "catexp": 0
     },
     "6283850766575@s.whatsapp.net": {
-      "exp": 2000000086,
+      "exp": 2000000166,
       "limit": 20,
       "lastclaim": 0,
       "registered": false,
@@ -45301,7 +45301,7 @@
       "haus": 100,
       "laper": 100,
       "stamina": 100,
-      "pc": 1675954658516,
+      "pc": 1676171822402,
       "joinlimit": 1,
       "coin": 0,
       "age": -1,
@@ -45465,7 +45465,7 @@
       "job": "Pengangguran",
       "lbars": "[▒▒▒▒▒▒▒▒▒]",
       "premium": true,
-      "premiumTime": 9000000,
+      "premiumTime": 0,
       "healt": 100,
       "title": 0,
       "bannedDate": 0,
@@ -47013,10 +47013,10 @@
       "lastSuccess": 1671896616256
     },
     "creator.js": {
-      "total": 37,
-      "success": 37,
-      "last": 1675954824787,
-      "lastSuccess": 1675954824787
+      "total": 38,
+      "success": 38,
+      "last": 1676171824382,
+      "lastSuccess": 1676171824382
     },
     "anonymous_chat.js": {
       "total": 3,
@@ -47169,10 +47169,10 @@
       "lastSuccess": 1671800438332
     },
     "speed.js": {
-      "total": 6,
-      "success": 0,
-      "last": 1671802121703,
-      "lastSuccess": 0
+      "total": 7,
+      "success": 1,
+      "last": 1676171848433,
+      "lastSuccess": 1676171848433
     },
     "yuki-bot.js": {
       "total": 2,
