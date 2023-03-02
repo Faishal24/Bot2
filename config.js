@@ -46,7 +46,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6288221354110'
 global.nomorown = '628989513496'
-global.namebot = 'Cleopatra'
+global.namebot = 'NexBotz'
 global.nameown = 'NexEp'
 
 
@@ -105,16 +105,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Cleopatra' //Main Watermark
+global.wm = 'By NexBotz' //Main Watermark
 global.wm2 = 'NexEp'
-global.wm3 = 'Cleopatra | By Cleopa'
+global.wm3 = 'NexBotz | By NexEp'
 global.botdate = `โป ๐๐ฎ๐๐ฒ: ${week} ${date}\nโป ๐ง๐ถ๐บ๐ฒ: ${wktuwib}`
 global.bottime = `โป ๐ง ๐ ๐  ๐ : ${wktuwib}`
 global.titlebot = `NexBotz | สส ${global.nameown}`
-global.author = '' 
-global.packname = 'โถcak โnofficial'
+global.author = 'NexEp' 
+global.packname = 'NexEp'
 global.danied = 'โ ๐๐ฅ๐ข๐ฅ ๐ฐ๐ฌ๐ฐ'
-global.ultahowner = 'Juli 11 1273'
+global.ultahowner = 'Juli 11 2022'
 
 
 /*============== LOGO ==============*/
@@ -383,7 +383,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Cleopatra'
+global.stickpack = 'By NexBotz'
 global.stickauth = `NexEp`
 
 global.multiplier = 38 // The higher, The harder levelup
