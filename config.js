@@ -46,7 +46,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6288221354110'
 global.nomorown = '628989513496'
-global.namebot = 'NexBotz'
+global.namebot = 'Cleopatra'
 global.nameown = 'NexEp'
 
 
@@ -105,15 +105,15 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By 24' //Main Watermark
-global.wm2 = '24'
-global.wm3 = '24 | By 24'
-global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
+global.wm = 'By Cleopatra' //Main Watermark
+global.wm2 = 'NexEp'
+global.wm3 = 'Cleopatra | By Cleopa'
+global.botdate = `โป ๐๐ฎ๐๐ฒ: ${week} ${date}\nโป ๐ง๐ถ๐บ๐ฒ: ${wktuwib}`
+global.bottime = `โป ๐ง ๐ ๐  ๐ : ${wktuwib}`
+global.titlebot = `NexBotz | สส ${global.nameown}`
 global.author = '' 
-global.packname = '❶cak Ⓤnofficial'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.packname = 'โถcak โnofficial'
+global.danied = 'โ ๐๐ฅ๐ข๐ฅ ๐ฐ๐ฌ๐ฐ'
 global.ultahowner = 'Juli 11 1273'
 
 
@@ -128,7 +128,7 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n๐ ๏ธ_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'NexEp'
@@ -138,8 +138,8 @@ global.nomorowner = 'wa.me/628812743180'
 global.pacarowner = 'Kaede Hitotsuba'
 
 /*============== TEXT ==============*/
-global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
-global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧```'
+global.wait = '```๐๐ค๐๐๐๐ฃ๐...```'
+global.eror = '```๐๐ค๐ฉ ๐๐ค๐ช๐ฃ๐ ๐ฐ๐ฌ๐ฐ ๐๐ง๐ค๐ง```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -156,25 +156,25 @@ global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊•' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
-global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷꒦'
+global.dmenut = 'โโโโโโโฉ' //top
+global.dmenub = 'โโข' //body
+global.dmenub2 = 'โ' //body for info cmd on Default menu
+global.dmenuf = 'โโโโโโโโโโโโฆ' //footer
+global.hiasan = '๊ฆ อ ๊ท อ ๊ฆ อ ๊ท อ ๊ฆ อ ๊ท อ ๊ฆ อ ๊ท อ ๊ฆ อ ๊ท อ ๊ฆ อ ๊ท อ ๊ฆ อ ๊ท๊ฆ'
 
 // COMMAND MENU
-global.cmenut = '––––––『' //top
-global.cmenuh = '』––––––' //header
-global.cmenub = '┊☃︎ ' //body
-global.cmenuf = '┗━═┅═━––––––๑\n' //footer
+global.cmenut = 'โโโโโโใ' //top
+global.cmenuh = 'ใโโโโโโ' //header
+global.cmenub = 'โโ๏ธ ' //body
+global.cmenuf = 'โโโโโโโโโโโโเน\n' //footer
 global.cmenua = '' //after
-global.pmenus = '☃︎' //pembatas menu selector
+global.pmenus = 'โ๏ธ' //pembatas menu selector
 
-global.htki = '––––『' //hiasan title kiri
-global.htka = '』––––' //hiasan title kanan
-global.lopr = 'Ⓟ'
-global.lolm = 'Ⓛ'
-global.htjava = '❃' //hiasan Doang :v
+global.htki = 'โโโโใ' //hiasan title kiri
+global.htka = 'ใโโโโ' //hiasan title kanan
+global.lopr = 'โ'
+global.lolm = 'โ'
+global.htjava = 'โ' //hiasan Doang :v
 
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -383,7 +383,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
+global.stickpack = 'By Cleopatra'
 global.stickauth = `NexEp`
 
 global.multiplier = 38 // The higher, The harder levelup
@@ -393,37 +393,37 @@ global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
     let emot = {
-      level: '📊',
-      limit: '🎫',
-      health: '❤️',
-      exp: '✨',
-      money: '💹',
-      bank: '🏦',
-      potion: '🥤',
-      diamond: '💎',
-      common: '📦',
-      uncommon: '🛍️',
-      mythic: '🎁',
-      legendary: '🗃️',
-      superior: '💼',
-      pet: '🔖',
-      trash: '🗑',
-      armor: '🥼',
-      sword: '⚔️',
-      pickaxe: '⛏️',
-      fishingrod: '🎣',
-      wood: '🪵',
-      rock: '🪨',
-      string: '🕸️',
-      horse: '🐴',
-      cat: '🐱',
-      dog: '🐶',
-      fox: '🦊',
-      petFood: '🍖',
-      iron: '⛓️',
-      gold: '🪙',
-      emerald: '❇️',
-      upgrader: '🧰'
+      level: '๐',
+      limit: '๐ซ',
+      health: 'โค๏ธ',
+      exp: 'โจ',
+      money: '๐น',
+      bank: '๐ฆ',
+      potion: '๐ฅค',
+      diamond: '๐',
+      common: '๐ฆ',
+      uncommon: '๐๏ธ',
+      mythic: '๐',
+      legendary: '๐๏ธ',
+      superior: '๐ผ',
+      pet: '๐',
+      trash: '๐',
+      armor: '๐ฅผ',
+      sword: 'โ๏ธ',
+      pickaxe: 'โ๏ธ',
+      fishingrod: '๐ฃ',
+      wood: '๐ชต',
+      rock: '๐ชจ',
+      string: '๐ธ๏ธ',
+      horse: '๐ด',
+      cat: '๐ฑ',
+      dog: '๐ถ',
+      fox: '๐ฆ',
+      petFood: '๐',
+      iron: 'โ๏ธ',
+      gold: '๐ช',
+      emerald: 'โ๏ธ',
+      upgrader: '๐งฐ'
       
     }
     let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
